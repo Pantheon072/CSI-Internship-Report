@@ -12,7 +12,6 @@ This repository contains the official report for my CSI internship, where I expl
 - **Kali Linux** – Penetration testing OS
 - **Nmap** – Network scanning and host discovery
 - **Gobuster** – Directory and file brute-forcing
-- **Wireshark** – Packet analysis
 - **Burp Suite** – Web vulnerability scanner
 
 ## 🔍 Key Learnings
