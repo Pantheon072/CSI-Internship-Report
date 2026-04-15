@@ -19,7 +19,6 @@ This repository contains the official report for my CSI internship, where I expl
 - Conducted reconnaissance and scanning on target systems
 - Identified open ports and services using Nmap
 - Discovered hidden directories with Gobuster
-- Analyzed network traffic using Wireshark
 - Exploited web vulnerabilities with Burp Suite
 
 
